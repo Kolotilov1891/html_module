@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+}
+.wrap{
+    background: silver;
+    width: 1600px;
+    height: 800px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-basis: 300px;
+    /*flex-wrap: wrap;*/
+    /*column-gap: 20px;*/
+    /*row-gap: 20px;*/
+
+}
+.box{
+    width: 120px;
+    height: 120px;
+
+}
+.a{
+    background: coral;
+    /*margin-left: 10px;*/
+    /*margin-right: 10px;*/
+    flex-grow: 1;
+    flex-shrink: 1;
+}
+.b{
+    background: crimson;
+    flex-grow: 1;
+    flex-shrink: 2;
+    /*align-self: center;*/
+}
+/*.c{*/
+/*    align-self: flex-end;*/
+/*}*/
