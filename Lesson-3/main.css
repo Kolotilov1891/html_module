@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+.target{
+
+
+}
+.father{
+    width: 800px;
+    height: 400px;
+    background: aqua;
+
+}
+.child{
+    width: 50%;
+
+}
+.wrap{
+    margin-top: 10px;
+    width: 800px;
+    height: 400px;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+   width: 200px;
+    height: 200px;
+    background: red;
+
+
+}
