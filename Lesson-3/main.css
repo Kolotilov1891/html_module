@@ -1,33 +1,17 @@
 body{
     margin: 0;
+    background: moccasin;
+}
+.xxx{
+    border: 5px solid dodgerblue;
+    box-sizing: border-box;
+    margin-left: 800px;
+    width: 300px;
+
 }
 .target{
-
-
+    font-size: 30px;
 }
-.father{
-    width: 800px;
-    height: 400px;
-    background: aqua;
-
-}
-.child{
-    width: 50%;
-
-}
-.wrap{
-    margin-top: 10px;
-    width: 800px;
-    height: 400px;
-    background: black;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.item{
-   width: 200px;
-    height: 200px;
-    background: red;
-
-
+.text{
+    font-size: 30px;
 }
