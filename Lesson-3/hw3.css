@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background: moccasin;
+}
+.xxx{
+    border: 5px solid dodgerblue;
+    box-sizing: border-box;
+    margin-left: 800px;
+    width: 300px;
+
+}
+.target{
+    font-size: 30px;
+}
+.text{
+    font-size: 30px;
+}
