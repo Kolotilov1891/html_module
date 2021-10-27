@@ -1,0 +1,44 @@
+.container{
+    background: moccasin;
+    margin: 0 auto;
+    width: 700px;
+    min-height: 400px;
+    border: 3px solid black;
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background: chocolate;
+    text-align: center;
+
+}
+.nav{
+    width: 100%;
+    height: 100px;
+    background: violet;
+    text-align: center;
+}
+.main{
+    display: flex;
+
+
+}
+.left{
+    background: crimson;
+    width: 500px;
+    height: 500px;
+    text-align: center;
+}
+.right{
+    background: green;
+    width: 200px;
+    height: 500px;
+    text-align: center;
+
+}
+.footer{
+    width: 100%;
+    height: 100px;
+    background: darkgoldenrod;
+}
