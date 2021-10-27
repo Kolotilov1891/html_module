@@ -1,0 +1,48 @@
+.container{
+    width: 1000px;
+    border: 3px solid black;
+    margin: 0 auto;
+    min-height: 300px;
+    background: silver;
+    padding: 5px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background: aqua;
+}
+.main{
+    margin-top:  5px;
+    margin-bottom:  5px;
+    display: flex;
+
+}
+.ml{
+    width: 700px;
+    height: 500px;
+    background: green;
+
+}
+.mr{
+    margin-left: 15px;
+    width: 200px;
+    height: 500px;
+    background: lawngreen;
+
+}
+.mh{
+    width: 100%;
+    height: 250px;
+    background: darkred;
+}
+.mi{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+.a, .b, .c{
+    width: 200px;
+    height: 200px;
+    background: blue;
+}
